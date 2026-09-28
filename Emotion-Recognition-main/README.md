@@ -25,7 +25,7 @@ This serverless web application uses TensorFlow.js and Haar Cascade to track fac
 
 ## Setup and Local Development
 1. Clone the repository:
-   git clone https://github.com/manish-9245/emotion-recognition.git
+   git clone [https://github.com/krishnaji786/Emotion-Recognition.git]
 2. Navigate to the project directory:
    cd face-emotion-recognition
 3. Install http-server globally:
@@ -35,7 +35,7 @@ This serverless web application uses TensorFlow.js and Haar Cascade to track fac
    5. Open your browser and navigate to `http://localhost:8080` (or the port shown in your terminal).
 
 ## Deployment on Vercel
-1. Sign up for a Vercel account at https://vercel.com if you haven't already.
+1. Sign up for a Vercel account 
 2. Install the Vercel CLI: `npm i -g vercel`
 3. From your project directory, run: `vercel`
 4. Follow the prompts to link your project to Vercel.
@@ -64,8 +64,6 @@ This serverless web application uses TensorFlow.js and Haar Cascade to track fac
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 - TensorFlow.js team
